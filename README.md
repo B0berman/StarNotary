@@ -136,3 +136,18 @@ compilers: {
 ---
 
 Do not use the [Old depreacted zipped starter code](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/January/5c51c4c0_project-5-starter-code/project-5-starter-code.zip)
+
+## Project Information
+
+#### Versions
+
+Truffle v5.4.14
+OpenZeppelin-solidity v2.3.0
+
+#### Token
+
+Name : StarN
+Symbol : SNT
+
+#### Contract address
+0xe401Cf943143d7430D9D54C3ebDBac8272738f2F
